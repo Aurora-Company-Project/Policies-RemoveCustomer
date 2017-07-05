@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	line-height: 2em;
+	Color: #009;
+	font-weight: 1000px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #0989BE;
+	text-align: center;
+	
+}
+
+p {
+	font-size: 200%;
+}
+
+#Btn {
+	color:#375CEB;
+	Width: 200px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 150%;
+	border-radius: 5px;
+}
+
+#Btn:hover {
+	background-color:beige;
+}
+
+.bttn_control {
+	padding: 20px 20px;
+}
